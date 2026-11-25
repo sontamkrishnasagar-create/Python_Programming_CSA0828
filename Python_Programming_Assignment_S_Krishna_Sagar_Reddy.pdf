@@ -1,0 +1,2177 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2491
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 740.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 31 Tm
+/F2 19 Tf
+25 TL
+52.19117 0 Td
+(SAVEETHA INSTITUTE OF MEDICAL AND) Tj
+T*
+82.3365 0 Td
+(TECHNICAL SCIENCES) Tj
+T*
+-134.5277 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 710.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 6 Tm
+/F1 12 Tf
+18 TL
+174.6022 0 Td
+(SIMATS ENGINEERING) Tj
+T*
+-174.6022 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 692.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 6 Tm
+/F1 12 Tf
+18 TL
+134.9122 0 Td
+(ASSESSMENT 3 \226 MODEL EXAM LAB) Tj
+T*
+-134.9122 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 661.3543 cm
+Q
+q
+1 0 0 1 57.02362 636.3543 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 6 Tm
+/F2 19 Tf
+25 TL
+123.9732 0 Td
+(PYTHON PROGRAMMING) Tj
+T*
+-123.9732 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.3543 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 6 Tm
+/F1 12 Tf
+18 TL
+176.2522 0 Td
+(Course Code\072 CSA0828) Tj
+T*
+-176.2522 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 572.3386 cm
+Q
+q
+1 0 0 1 77.95276 464.3386 cm
+q
+0.827451 0.827451 0.827451 rg
+n
+0 108 121.8898 -108 re
+f*
+0 0 0 rg
+BT
+/F1 11 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 85 Tm
+(Name) Tj
+T*
+ET
+BT
+1 0 0 1 127.8898 85 Tm
+(S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 6 49 Tm
+(Register Number) Tj
+T*
+ET
+BT
+1 0 0 1 127.8898 49 Tm
+(192525384) Tj
+T*
+ET
+BT
+1 0 0 1 6 13 Tm
+(Course Outcome) Tj
+T*
+ET
+BT
+1 0 0 1 127.8898 13 Tm
+(CO2 \226 Apply fundamental Python programming concepts) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.7 w
+n
+0 108 m
+439.3701 108 l
+S
+n
+0 0 m
+439.3701 0 l
+S
+n
+0 0 m
+0 108 l
+S
+n
+439.3701 0 m
+439.3701 108 l
+S
+n
+0 72 m
+439.3701 72 l
+S
+n
+0 36 m
+439.3701 36 l
+S
+n
+121.8898 0 m
+121.8898 108 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 421.8189 cm
+Q
+q
+1 0 0 1 57.02362 396.8189 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 16 Tf
+20 TL
+(Assignment Topics) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 372.8189 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4.7 Tm
+/F1 10.3 Tf
+15 TL
+(1\056 Python Data Structures\072 Lists\054 Tuples\054 Sets and Dictionaries) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 335.8189 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(2\056 Object\055Oriented Programming\072 Classes\054 Objects\054 Constructors\054 Inheritance\054 Polymorphism and) Tj
+T*
+(Encapsulation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 294.8031 cm
+Q
+q
+1 0 0 1 57.02362 273.8031 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 5 Tm
+/F1 10 Tf
+15 TL
+70.81917 0 Td
+(Submitted as part of the Python Programming Model Exam Lab assessment\056) Tj
+T*
+-70.81917 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 4390
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 770.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 16 Tf
+20 TL
+(Q1\056 PYTHON DATA STRUCTURES) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 745.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Introduction) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 49.7 Tm
+/F1 10.3 Tf
+15 TL
+(Python data structures are ways of storing\054 organizing and managing data so that programs can process) Tj
+T*
+(information efficiently\056 A library management system can use different structures for book IDs\054 titles\054) Tj
+T*
+(available copies and categories\056 Each structure has a different purpose\054 so choosing the right one makes) Tj
+T*
+(a program easier to understand and maintain\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 656.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Concept Map\072 Data Structures) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 12 5.8 Tm
+/F1 10.2 Tf
+16 TL
+(Python Data Structures ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( List ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Tuple ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Set ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Dictionary) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 581.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(The sequence above connects the structures for comparison and learning\056 In a library program\054 lists can) Tj
+T*
+(hold collections of books\054 tuples can represent fixed records\054 sets can manage unique categories or IDs\054) Tj
+T*
+(and dictionaries can associate book IDs with detailed information\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 558.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(1\056 List) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 522.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(A list is an ordered and mutable collection\056 It allows duplicate values and can store elements of different) Tj
+T*
+(data types\056 Lists are useful when the collection may change\054 such as the list of available book titles\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Characteristics) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 463.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+<7f204f7264657265643a206974656d732072657461696e20746865697220706f736974696f6e2e207f204d757461626c653a206974656d732063616e206265206368616e6765642c206164646564206f722072656d6f7665642e207f20416c6c6f7773> Tj
+T*
+<6475706c6963617465732e207f20537570706f72747320696e646578696e6720616e6420736c6963696e672e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 440.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Creation and common operations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 358.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 68.5 Tm
+/F4 8.5 Tf
+11 TL
+(books \075 \133\042Python Basics\042\054 \042Data Science\042\054 \042Networks\042\135) Tj
+T*
+(books\056append\050\042AI Fundamentals\042\051   \043 add an item) Tj
+T*
+(books\1330\135 \075 \042Python Programming\042  \043 update by index) Tj
+T*
+(print\050books\1331\135\051                 \043 indexing) Tj
+T*
+(print\050books\1331\0723\135\051               \043 slicing) Tj
+T*
+(books\056remove\050\042Networks\042\051         \043 remove by value) Tj
+T*
+(books\056pop\050\051                      \043 remove last item) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 335.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Important methods) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 299.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+-0.048153 Tw
+(append\050\051 adds an item\073 extend\050\051 adds multiple items\073 insert\050\051 adds at a chosen index\073 remove\050\051 removes a) Tj
+T*
+0 Tw
+(value\073 pop\050\051 removes and returns an item\073 sort\050\051 sorts items\073 reverse\050\051 reverses the list\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 276.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Library application) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 240.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(A list can store the titles of books currently available\056 A librarian can append a newly purchased title\054) Tj
+T*
+(remove a withdrawn title or update a title after editing the catalogue\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 4308
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 770.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 16 Tf
+20 TL
+(Q1\056 DATA STRUCTURES \226 TUPLES AND SETS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 745.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(2\056 Tuple) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 709.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(A tuple is an ordered collection that is immutable after creation\056 It can contain duplicates and different) Tj
+T*
+(data types\056 Tuples are suitable for information that should remain fixed during normal program operation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 686.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Characteristics) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 650.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+<7f204f72646572656420616e6420696e64657865642e207f20496d6d757461626c6520286974656d732063616e6e6f7420626520726561737369676e6564206f722072656d6f766564292e207f20416c6c6f7773206475706c6963617465> Tj
+T*
+<656c656d656e74732e207f2043616e206265206e65737465642e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 627.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Creation\054 indexing and operations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 534.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 79.5 Tm
+/F4 8.5 Tf
+11 TL
+(book\137record \075 \050101\054 \042Python Basics\042\054 3\051) Tj
+T*
+(print\050book\137record\1330\135\051   \043 book ID) Tj
+T*
+(print\050book\137record\1331\135\051   \043 title) Tj
+T*
+(print\050book\137record\1332\135\051   \043 available copies) Tj
+T*
+(print\050len\050book\137record\051\051 \043 number of elements) Tj
+T*
+T*
+(\043 A one\055item tuple needs a comma\072) Tj
+T*
+(single \075 \050\042Programming\042\054\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 511.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Tuple applications) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 460.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(A tuple can represent a simple fixed record such as a book ID\054 title and initial edition details\054 or a) Tj
+T*
+(coordinate \057 pair of values\056 It provides a clear representation when the sequence is not intended to be) Tj
+T*
+(changed\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 437.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(3\056 Set) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 401.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(A set is an unordered collection of unique elements\056 Sets automatically remove duplicates and are useful) Tj
+T*
+(for membership checking and set\055based comparisons\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 378.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Characteristics) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 342.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+-0.121662 Tw
+<7f20556e6f72646572656420286e6f20706f736974696f6e616c20696e646578696e67292e207f204d757461626c652061732061207365742e207f20446f6573206e6f7420636f6e7461696e206475706c696361746520656c656d656e74732e207f20537570706f727473> Tj
+T*
+0 Tw
+(union\054 intersection and difference\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 319.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Creation and common operations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 215.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 90.5 Tm
+/F4 8.5 Tf
+11 TL
+(categories \075 \173\042Science\042\054 \042Computing\042\054 \042Fiction\042\175) Tj
+T*
+(categories\056add\050\042Mathematics\042\051) Tj
+T*
+(categories\056discard\050\042Fiction\042\051) Tj
+T*
+(other \075 \173\042Computing\042\054 \042History\042\175) Tj
+T*
+T*
+(print\050categories \174 other\051  \043 union) Tj
+T*
+(print\050categories \046 other\051  \043 intersection) Tj
+T*
+(print\050categories \055 other\051  \043 difference) Tj
+T*
+(print\050\042Science\042 in categories\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 192.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Set applications) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 156.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(A library can use a set to store unique book IDs or category names\056 When IDs are imported from multiple) Tj
+T*
+(sources\054 a set helps remove duplicate IDs and check whether an ID already exists\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 4505
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 4) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 770.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 16 Tf
+20 TL
+(Q1\056 DATA STRUCTURES \226 DICTIONARIES) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 745.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(4\056 Dictionary) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 694.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(A dictionary stores data as key\226value pairs\056 Each key is unique and is used to access its associated) Tj
+T*
+(value\056 Dictionaries are mutable and are particularly useful for records that must be retrieved using an) Tj
+T*
+(identifier\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 671.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Characteristics) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 635.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+<7f204b65799676616c7565206d617070696e672e207f204b6579732061726520756e6971756520616e64206861736861626c652e207f204d757461626c653a2076616c7565732063616e2062652061646465642c2075706461746564206f72> Tj
+T*
+<64656c657465642e207f2041636365737320697320706572666f726d6564207573696e67206b65797320726174686572207468616e206e756d6572696320706f736974696f6e732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 612.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Creation\054 indexing and common operations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 431.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 167.5 Tm
+/F4 8.5 Tf
+11 TL
+(book \075 \173) Tj
+T*
+(    101\072 \173\042title\042\072 \042Python Basics\042\054 \042copies\042\072 3\054) Tj
+T*
+(          \042category\042\072 \042Computing\042\175\054) Tj
+T*
+(    102\072 \173\042title\042\072 \042Networks\042\054 \042copies\042\072 2\054) Tj
+T*
+(          \042category\042\072 \042Technology\042\175) Tj
+T*
+(\175) Tj
+T*
+T*
+(print\050book\133101\135\133\042title\042\135\051       \043 access) Tj
+T*
+(book\133101\135\133\042copies\042\135 \075 4         \043 update) Tj
+T*
+(book\133103\135 \075 \173\042title\042\072 \042AI\042\054 \042copies\042\072 1\054) Tj
+T*
+(             \042category\042\072 \042Computing\042\175  \043 add) Tj
+T*
+(del book\133102\135                   \043 delete) Tj
+T*
+T*
+(print\050book\056keys\050\051\051) Tj
+T*
+(print\050book\056values\050\051\051) Tj
+T*
+(print\050book\056items\050\051\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 408.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Important dictionary methods) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 372.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(get\050key\051 safely retrieves a value\073 keys\050\051 returns keys\073 values\050\051 returns values\073 items\050\051 returns key\226value) Tj
+T*
+(pairs\073 update\050\051 merges or updates entries\073 pop\050key\051 removes an entry and returns its value\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 349.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Library management application) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 298.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(A dictionary is a natural choice for a catalogue in which each book ID is used as a key and the value) Tj
+T*
+(contains the title\054 available copies\054 category and other details\056 This makes lookup\054 updating and deletion) Tj
+T*
+(straightforward\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 275.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Combined concept map) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 237.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 12 21.8 Tm
+/F1 10.2 Tf
+16 TL
+(Book Catalogue ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Dictionary \050Book ID \072 details\051 ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( List \050titles \057 changing collections\051 ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Tuple \050fixed) Tj
+T*
+(record\051 ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Set \050unique IDs \057 categories\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 213.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Why data structures matter) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 162.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(Lists support flexible collections\054 tuples represent fixed sequences\054 sets maintain uniqueness and) Tj
+T*
+(dictionaries enable key\055based lookup\056 Using them together helps organize a library catalogue\054 reduce) Tj
+T*
+(repeated data\054 make operations clearer and support efficient data management\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 4038
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 5) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 770.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 16 Tf
+20 TL
+(Q2\056 OBJECT\055ORIENTED PROGRAMMING IN PYTHON) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 745.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Introduction) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 49.7 Tm
+/F1 10.3 Tf
+15 TL
+(Object\055Oriented Programming \050OOP\051 is a programming approach that organizes a program around) Tj
+T*
+(objects\054 which combine data and behaviour\056 A banking application can model customer accounts as) Tj
+T*
+(objects\056 Each account stores information such as account number and balance\054 and provides operations) Tj
+T*
+(such as deposit and withdrawal\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 656.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Concept Map\072 OOP) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 12 5.8 Tm
+/F1 10.2 Tf
+16 TL
+(Classes ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Objects ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Constructors ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Inheritance ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Polymorphism ) Tj
+/F3 10.2 Tf
+16 TL
+(\256) Tj
+/F1 10.2 Tf
+16 TL
+( Encapsulation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 610.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(1\056 Class) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 574.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(A class is a blueprint that defines the attributes \050data\051 and methods \050behaviour\051 that its objects can have\056) Tj
+T*
+(It is declared using the class keyword\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 551.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Syntax) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 524.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 13.5 Tm
+/F4 8.5 Tf
+11 TL
+(class Account\072) Tj
+T*
+(    pass) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 501.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(2\056 Object) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 465.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(An object is an instance of a class\056 Each object can have its own data while using the methods defined by) Tj
+T*
+(the class\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 442.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Example) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 371.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 57.5 Tm
+/F4 8.5 Tf
+11 TL
+(class Account\072) Tj
+T*
+(    def display\050self\051\072) Tj
+T*
+(        print\050\042Bank account\042\051) Tj
+T*
+T*
+(account1 \075 Account\050\051  \043 create object) Tj
+T*
+(account1\056display\050\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 348.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(3\056 Constructor) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 312.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(A constructor is the special method \137\137init\137\137\050\051 that is called when an object is created\056 It initializes the) Tj
+T*
+(object\047s attributes\056 The parameter self refers to the current object\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 217.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 79.5 Tm
+/F4 8.5 Tf
+11 TL
+(class Account\072) Tj
+T*
+(    def \137\137init\137\137\050self\054 name\054 balance\051\072) Tj
+T*
+(        self\056name \075 name) Tj
+T*
+(        self\056balance \075 balance) Tj
+T*
+T*
+(account1 \075 Account\050\042Krishna\042\054 5000\051) Tj
+T*
+(print\050account1\056name\051) Tj
+T*
+(print\050account1\056balance\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 194.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Relationship) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 158.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+(The class defines a structure\054 the object is an instance of that structure\054 and the constructor initializes the) Tj
+T*
+(instance\056 Together they help represent real\055world entities in code\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3641
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 6) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 750.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 24 Tm
+/F2 16 Tf
+20 TL
+(Q2\056 OOP \226 INHERITANCE\054 POLYMORPHISM AND) Tj
+T*
+(ENCAPSULATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 725.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(4\056 Inheritance) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 674.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(Inheritance allows a new class \050child or subclass\051 to reuse and extend the attributes and methods of an) Tj
+T*
+(existing class \050parent or superclass\051\056 It reduces repeated code and supports a hierarchy of related) Tj
+T*
+(classes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 546.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 112.5 Tm
+/F4 8.5 Tf
+11 TL
+(class Account\072) Tj
+T*
+(    def \137\137init\137\137\050self\054 balance\051\072) Tj
+T*
+(        self\056balance \075 balance) Tj
+T*
+T*
+(class SavingsAccount\050Account\051\072) Tj
+T*
+(    def add\137interest\050self\054 rate\051\072) Tj
+T*
+(        self\056balance \053\075 self\056balance \052 rate) Tj
+T*
+T*
+(s \075 SavingsAccount\0501000\051) Tj
+T*
+(s\056add\137interest\0500\05605\051) Tj
+T*
+(print\050s\056balance\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 523.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(5\056 Polymorphism) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 472.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+-0.050085 Tw
+(Polymorphism means that the same method name or interface can be used with different types of objects\054) Tj
+T*
+0 Tw
+(where each object may provide its own behaviour\056 Method overriding is one way to demonstrate) Tj
+T*
+(polymorphism in Python\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 311.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 145.5 Tm
+/F4 8.5 Tf
+11 TL
+(class Account\072) Tj
+T*
+(    def account\137type\050self\051\072) Tj
+T*
+(        return \042General account\042) Tj
+T*
+T*
+(class SavingsAccount\050Account\051\072) Tj
+T*
+(    def account\137type\050self\051\072) Tj
+T*
+(        return \042Savings account\042) Tj
+T*
+T*
+(class CurrentAccount\050Account\051\072) Tj
+T*
+(    def account\137type\050self\051\072) Tj
+T*
+(        return \042Current account\042) Tj
+T*
+T*
+(for acc in \133SavingsAccount\050\051\054 CurrentAccount\050\051\135\072) Tj
+T*
+(    print\050acc\056account\137type\050\051\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 288.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(6\056 Encapsulation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 237.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(Encapsulation combines data and methods in a class and helps control how internal data is accessed\056) Tj
+T*
+(Python uses naming conventions such as a leading underscore for intended internal attributes\054 and name) Tj
+T*
+(mangling with double underscores\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 76.53543 cm
+0 0 0 rg
+BT
+1 0 0 1 8 145.5 Tm
+/F4 8.5 Tf
+11 TL
+(class Account\072) Tj
+T*
+(    def \137\137init\137\137\050self\054 balance\051\072) Tj
+T*
+(        self\056\137\137balance \075 balance) Tj
+T*
+T*
+(    def deposit\050self\054 amount\051\072) Tj
+T*
+(        if amount \076 0\072) Tj
+T*
+(            self\056\137\137balance \053\075 amount) Tj
+T*
+T*
+(    def get\137balance\050self\051\072) Tj
+T*
+(        return self\056\137\137balance) Tj
+T*
+T*
+(acc \075 Account\0501000\051) Tj
+T*
+(acc\056deposit\050500\051) Tj
+T*
+(print\050acc\056get\137balance\050\051\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 53.53543 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(OOP concept relationships) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 561
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 7) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 745.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 34.7 Tm
+/F1 10.3 Tf
+15 TL
+(Inheritance reuses a parent class\054 polymorphism allows different implementations to respond to a) Tj
+T*
+(common method call\054 and encapsulation supports controlled access to object data\056 These concepts work) Tj
+T*
+(together to build modular applications\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 4583
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 207.5178 24.09449 Tm
+(Python Programming \174 S\056Krishna Sagar Reddy \174 Page 8) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 770.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 16 Tf
+20 TL
+(Q2\056 BANKING APPLICATION AND CONCLUSION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 745.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Integrated example) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 709.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 19.7 Tm
+/F1 10.3 Tf
+15 TL
+-0.113129 Tw
+(The following example combines a class\054 constructor\054 inheritance\054 method overriding and encapsulation in) Tj
+T*
+0 Tw
+(a simple banking model\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 372.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 8 321.5 Tm
+/F4 8.5 Tf
+11 TL
+(class Account\072) Tj
+T*
+(    def \137\137init\137\137\050self\054 customer\054 balance\051\072) Tj
+T*
+(        self\056customer \075 customer) Tj
+T*
+(        self\056\137\137balance \075 balance) Tj
+T*
+T*
+(    def deposit\050self\054 amount\051\072) Tj
+T*
+(        if amount \076 0\072) Tj
+T*
+(            self\056\137\137balance \053\075 amount) Tj
+T*
+T*
+(    def withdraw\050self\054 amount\051\072) Tj
+T*
+(        if 0 \074 amount \074\075 self\056\137\137balance\072) Tj
+T*
+(            self\056\137\137balance \055\075 amount) Tj
+T*
+(        else\072) Tj
+T*
+(            print\050\042Insufficient balance or invalid amount\042\051) Tj
+T*
+T*
+(    def get\137balance\050self\051\072) Tj
+T*
+(        return self\056\137\137balance) Tj
+T*
+T*
+(    def account\137type\050self\051\072) Tj
+T*
+(        return \042General account\042) Tj
+T*
+T*
+(class SavingsAccount\050Account\051\072) Tj
+T*
+(    def account\137type\050self\051\072) Tj
+T*
+(        return \042Savings account\042) Tj
+T*
+T*
+(account \075 SavingsAccount\050\042Krishna\042\054 5000\051) Tj
+T*
+(account\056deposit\0501000\051) Tj
+T*
+(account\056withdraw\050500\051) Tj
+T*
+(print\050account\056account\137type\050\051\051) Tj
+T*
+(print\050account\056get\137balance\050\051\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 349.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Benefits of OOP in banking) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 283.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 49.7 Tm
+/F1 10.3 Tf
+15 TL
+<7f20526575736162696c6974793a20636f6d6d6f6e206163636f756e742066756e6374696f6e616c6974792063616e20626520726575736564206279207370656369616c697a6564206163636f756e7420636c61737365732e207f204d6f64756c61726974793a> Tj
+T*
+<6561636820636c6173732063616e20666f637573206f6e206f6e6520726573706f6e736962696c6974792e207f204d61696e7461696e6162696c6974793a206368616e6765732063616e206265206d6164652077697468696e206120636c61737320776974686f7574> Tj
+T*
+<726577726974696e672074686520656e74697265206170706c69636174696f6e2e207f20446174612070726f74656374696f6e3a20656e63617073756c6174696f6e2068656c707320636f6e74726f6c2062616c616e63652061636365737320616e64> Tj
+T*
+<757064617465732e207f20457874656e736962696c6974793a206e6577206163636f756e742074797065732063616e206265206164646564207468726f75676820696e6865726974616e636520616e64206d6574686f64206f766572726964696e672e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 260.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Conclusion) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 179.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 64.7 Tm
+/F1 10.3 Tf
+15 TL
+(Python data structures provide practical ways to organize information\054 while Object\055Oriented) Tj
+T*
+(Programming helps structure software into reusable and maintainable components\056 In a library system\054) Tj
+T*
+(lists\054 tuples\054 sets and dictionaries serve different data\055management needs\056 In a banking system\054 classes\054) Tj
+T*
+(objects\054 constructors\054 inheritance\054 polymorphism and encapsulation help model accounts and their) Tj
+T*
+-0.127159 Tw
+(operations\056 Together\054 these Python concepts support clear\054 organized and efficient program development\056) Tj
+T*
+0 Tw
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 161.1969 cm
+Q
+q
+1 0 0 1 57.02362 138.1969 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 12.5 Tf
+16 TL
+(Code of Conduct) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 106.1969 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 16.7 Tm
+/F1 9.3 Tf
+13 TL
+(I\054 S\056Krishna Sagar Reddy \050Register Number\072 192525384\051\054 certify that this submission is my original work and that I have) Tj
+T*
+(adhered to the guidelines specified for this assessment\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 87.19685 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.7 Tm
+/F1 9.3 Tf
+13 TL
+(Student Signature\072 \137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000410 00000 n 
+0000002953 00000 n 
+0000003015 00000 n 
+0000003122 00000 n 
+0000003234 00000 n 
+0000003311 00000 n 
+0000003417 00000 n 
+0000003618 00000 n 
+0000008061 00000 n 
+0000008262 00000 n 
+0000012623 00000 n 
+0000012824 00000 n 
+0000017382 00000 n 
+0000017583 00000 n 
+0000021674 00000 n 
+0000021875 00000 n 
+0000025569 00000 n 
+0000025770 00000 n 
+0000026383 00000 n 
+0000026584 00000 n 
+trailer
+<<
+/Size 25
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+31220
+%%EOF

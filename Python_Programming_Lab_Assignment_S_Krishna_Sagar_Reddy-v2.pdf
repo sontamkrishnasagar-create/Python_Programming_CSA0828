@@ -1,0 +1,3938 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 11
+/Kids [ 4 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3816
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 748.0157 cm
+Q
+q
+1 0 0 1 57.02362 724.0157 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 19 Tf
+24 TL
+135.5727 0 Td
+(SIMATS ENGINEERING) Tj
+T*
+-135.5727 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.0157 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 19 Tf
+24 TL
+86.46717 0 Td
+(ASSESSMENT 3 \226 LAB EXERCISE) Tj
+T*
+-86.46717 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 663.0157 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 5 Tm
+/F1 12 Tf
+17 TL
+119.2702 0 Td
+(COURSE NAME\072 PYTHON PROGRAMMING) Tj
+T*
+-119.2702 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 640.0157 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 5 Tm
+/F1 12 Tf
+17 TL
+166.9282 0 Td
+(COURSE CODE\072 CSA0828) Tj
+T*
+-166.9282 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 600 cm
+Q
+q
+1 0 0 1 80.7874 463.937 cm
+q
+0.862745 0.901961 0.945098 rg
+n
+0 136.063 136.063 -136.063 re
+f*
+0 0 0 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 115.0551 Tm
+(Name) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 144.063 115.0551 Tm
+(S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 81.03937 Tm
+(Register Number) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 144.063 81.03937 Tm
+(192525384) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 47.02362 Tm
+(Department) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 144.063 47.02362 Tm
+(AI\046ML) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 13.00787 Tm
+(Assessment) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 144.063 13.00787 Tm
+(Python Programming \226 Lab Exercise) Tj
+T*
+ET
+q
+1 J
+1 j
+0 0 0 RG
+0.8 w
+n
+0 136.063 m
+433.7008 136.063 l
+S
+n
+0 0 m
+433.7008 0 l
+S
+n
+0 0 m
+0 136.063 l
+S
+n
+433.7008 0 m
+433.7008 136.063 l
+S
+n
+0 102.0472 m
+433.7008 102.0472 l
+S
+n
+0 68.0315 m
+433.7008 68.0315 l
+S
+n
+0 34.01575 m
+433.7008 34.01575 l
+S
+n
+136.063 0 m
+136.063 136.063 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 429.9213 cm
+Q
+q
+1 0 0 1 57.02362 409.9213 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Course Outcome Covered) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 377.5213 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9.4 Tf
+13.2 TL
+2.833712 Tw
+(CO2 \226 Apply fundamental Python programming concepts\054 including variables\054 data types\054 operators\054 control) Tj
+T*
+0 Tw
+(structures\054 and functions\054 to develop logical solutions for computational problems\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 358.3213 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F2 9.4 Tf
+0 0 0 rg
+(Assessment details\072) Tj
+/F1 9.4 Tf
+( Weightage\072 35\045 \174 Total Marks\072 20 \174 Duration\072 One Hour) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 338.3213 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Topics covered in this submission) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 319.1213 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2051312e2046696c652048616e646c696e6720696e20507974686f6e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 299.9213 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2051322e20507974686f6e20446174616261736520436f6e6e6563746976697479> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 280.7213 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2051352e20507974686f6e20526567756c61722045787072657373696f6e732028526567657829> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 261.5213 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2051362e20507974686f6e204150497320616e64204a534f4e2050726f63657373696e67> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 227.1748 cm
+Q
+q
+1 0 0 1 57.02362 207.1748 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+166.9692 0 Td
+(Submitted by\072 S\056Krishna Sagar Reddy) Tj
+T*
+-166.9692 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 187.1748 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+193.9292 0 Td
+(SIMATS Engineering) Tj
+T*
+-193.9292 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/helv 10 0 R
+/cour 11 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<<
+/Type /Page
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 4863
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q1\056 FILE HANDLING IN PYTHON \226 PART 1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Introduction) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.7354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 43.4 Tm
+/F1 9.4 Tf
+13.2 TL
+1.802453 Tw
+(File handling in Python is used to store information permanently in a file and retrieve it whenever required\056 A) Tj
+T*
+0 Tw
+0.927009 Tw
+(program normally loses its temporary data when it stops running\056 Files solve this problem by keeping records on) Tj
+T*
+0 Tw
+1.874129 Tw
+(secondary storage\056 In a college management system\054 student details\054 attendance information and examination) Tj
+T*
+0 Tw
+(results can be saved in files and accessed later\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 669.7354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Importance in a college management system) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 650.5354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2053747564656e74207265636f7264733a2073746f7265207265676973746572206e756d6265722c206e616d652c206465706172746d656e7420616e6420636f6e746163742064657461696c732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.3354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20417474656e64616e63653a206d61696e7461696e206461696c7920617474656e64616e636520616e642063616c63756c61746520617474656e64616e63652070657263656e74616765732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 612.1354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204578616d696e6174696f6e20726573756c74733a2073617665206d61726b7320666f7220646966666572656e74207375626a6563747320616e64207265747269657665207468656d20647572696e6720726573756c74207072657061726174696f6e2e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 592.9354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20446174612073686172696e673a2073617665642066696c65732063616e206265206f70656e656420627920617574686f72697a656420737461666620616e64206f746865722070726f6772616d732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 573.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204261636b75703a20696d706f7274616e74207265636f7264732063616e20626520636f7069656420746f20616e6f74686572206c6f636174696f6e20746f2072656475636520746865207269736b206f662064617461206c6f73732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 553.7354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Opening a file) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 521.3354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9.4 Tf
+13.2 TL
+0.843653 Tw
+(Python uses the built\055in open\050\051 function\056 It accepts a file name and a mode\056 The with statement is recommended) Tj
+T*
+0 Tw
+(because it closes the file automatically after the block finishes\054 even if an error occurs\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 486.8354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 20.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(with open\050\042students\056txt\042\054 \042r\042\054 encoding\075\042utf\0558\042\051 as file\072) Tj
+T*
+(    content \075 file\056read\050\051) Tj
+T*
+(    print\050content\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 465.8354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Common file modes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 82.20472 335.8354 cm
+q
+0.862745 0.901961 0.945098 rg
+n
+0 126 430.8661 -18 re
+f*
+0 0 0 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 114.5 Tm
+(Mode) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 114.5 Tm
+(Meaning) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 96.5 Tm
+(r) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 96.5 Tm
+(Read an existing file\056 It gives an error if the file does not exist\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 78.5 Tm
+(w) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 78.5 Tm
+(Write data\056 It creates a file or replaces its old contents\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 60.5 Tm
+(a) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 60.5 Tm
+(Append data at the end without removing existing contents\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 42.5 Tm
+(x) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 42.5 Tm
+(Create a new file and give an error if it already exists\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 24.5 Tm
+(b) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 24.5 Tm
+(Binary mode\054 used with another mode\054 for example rb or wb\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 6.5 Tm
+(t) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 6.5 Tm
+(Text mode\056 This is the default mode\056) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 126 m
+430.8661 126 l
+S
+n
+0 0 m
+430.8661 0 l
+S
+n
+0 0 m
+0 126 l
+S
+n
+430.8661 0 m
+430.8661 126 l
+S
+n
+0 108 m
+430.8661 108 l
+S
+n
+0 90 m
+430.8661 90 l
+S
+n
+0 72 m
+430.8661 72 l
+S
+n
+0 54 m
+430.8661 54 l
+S
+n
+0 36 m
+430.8661 36 l
+S
+n
+0 18 m
+430.8661 18 l
+S
+n
+62.3622 0 m
+62.3622 126 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/Type /Page
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 4012
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q1\056 FILE HANDLING IN PYTHON \226 PART 2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Reading\054 writing and appending) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 702.9354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+1.10633 Tw
+(Python provides several methods to work with file contents\056 read\050\051 reads the whole file or a specified number of) Tj
+T*
+0 Tw
+0.061102 Tw
+(characters\056 readline\050\051 reads one line\056 readlines\050\051 returns all lines as a list\056 write\050\051 adds text to a file\054 while writelines\050\051) Tj
+T*
+0 Tw
+(writes a collection of strings\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 573.4354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 115.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(\043 Writing student information) Tj
+T*
+(with open\050\042students\056txt\042\054 \042w\042\054 encoding\075\042utf\0558\042\051 as file\072) Tj
+T*
+(    file\056write\050\042192525384\054 S\056Krishna Sagar Reddy\054 AI\046ML\134n\042\051) Tj
+T*
+(    file\056write\050\0421912260716\054 Arun\054 ECE\134n\042\051) Tj
+T*
+T*
+(\043 Appending a new record) Tj
+T*
+(with open\050\042students\056txt\042\054 \042a\042\054 encoding\075\042utf\0558\042\051 as file\072) Tj
+T*
+(    file\056write\050\0421912260717\054 Kavin\054 ECE\134n\042\051) Tj
+T*
+T*
+(\043 Reading the saved records) Tj
+T*
+(with open\050\042students\056txt\042\054 \042r\042\054 encoding\075\042utf\0558\042\051 as file\072) Tj
+T*
+(    for line in file\072) Tj
+T*
+(        print\050line\056strip\050\051\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 552.4354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Sample output) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 519.9354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 20.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(192525384\054 S\056Krishna Sagar Reddy\054 AI\046ML) Tj
+T*
+(1912260716\054 Arun\054 ECE) Tj
+T*
+(1912260717\054 Kavin\054 ECE) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 498.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Closing files and handling errors) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 453.3354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+0.061364 Tw
+(A file opened with open\050\051 should be closed after use\056 Calling close\050\051 closes it manually\056 The with open\050\056\056\056\051 statement) Tj
+T*
+0 Tw
+0.497373 Tw
+(is safer because it manages closing automatically\056 File operations may fail because a file is missing\054 permission is) Tj
+T*
+0 Tw
+(denied or the storage location is unavailable\056 try and except can handle such errors\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 380.8354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 58.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(try\072) Tj
+T*
+(    with open\050\042students\056txt\042\054 \042r\042\054 encoding\075\042utf\0558\042\051 as file\072) Tj
+T*
+(        print\050file\056read\050\051\051) Tj
+T*
+(except FileNotFoundError\072) Tj
+T*
+(    print\050\042The student file was not found\056\042\051) Tj
+T*
+(except PermissionError\072) Tj
+T*
+(    print\050\042Permission denied\056\042\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 359.8354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Text files and binary files) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 314.2354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+0.401293 Tw
+(Text files store readable characters\054 such as names and marks in a \056txt or \056csv file\056 Binary files store data as bytes) Tj
+T*
+0 Tw
+0.418537 Tw
+(and are useful for images\054 audio and other non\055text data\056 Binary files are opened using modes such as rb and wb\056) Tj
+T*
+0 Tw
+(File handling makes a college system more reliable because records remain available after the program ends\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+16 0 obj
+<<
+/Type /Page
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 4450
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 4) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q2\056 PYTHON DATABASE CONNECTIVITY \226 PART 1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Introduction) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.7354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 43.4 Tm
+/F1 9.4 Tf
+13.2 TL
+0.556659 Tw
+(Database connectivity means connecting a Python program to a database so that the program can store\054 retrieve\054) Tj
+T*
+0 Tw
+0.662076 Tw
+(update and delete records\056 An inventory management application can use a database to maintain product details\054) Tj
+T*
+0 Tw
+0.467653 Tw
+(available quantities\054 prices and sales\056 A database is more suitable than a simple text file when many records must) Tj
+T*
+0 Tw
+(be searched and updated\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 669.7354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Why a database is needed) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 650.5354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2043656e7472616c2073746f726167653a2070726f6475637420696e666f726d6174696f6e2069732073746f72656420696e20616e206f7267616e697a656420706c6163652e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.3354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204661737420736561726368696e673a20612070726f647563742063616e20626520666f756e64207573696e67206974732070726f64756374204944206f72206e616d652e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 612.1354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f205570646174696e672073746f636b3a207175616e7469746965732063616e20626520696e637265617365642061667465722070757263686173657320616e6420726564756365642061667465722073616c65732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 592.9354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204461746120636f6e73697374656e63793a20636f6e73747261696e747320616e64207472616e73616374696f6e732068656c702070726576656e7420696e636f7272656374207265636f7264732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 573.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f205265706f7274696e673a2053514c20717565726965732063616e2073686f77206c6f772d73746f636b2070726f647563747320616e642073616c65732073756d6d61726965732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 553.7354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(SQLite and Python) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.1354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+-0.090956 Tw
+(SQLite is a lightweight relational database\056 Python includes the sqlite3 module\054 so a separate database server is not) Tj
+T*
+0 Tw
+-0.081382 Tw
+(required for a basic demonstration\056 The connect\050\051 function opens a connection to a database file\056 A cursor is used to) Tj
+T*
+0 Tw
+(execute SQL statements\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 331.1354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 163.3 Tm
+/F3 7.7 Tf
+9.5 TL
+(import sqlite3) Tj
+T*
+T*
+(\043 Connect to a database \050creates it if it does not exist\051) Tj
+T*
+(connection \075 sqlite3\056connect\050\042inventory\056db\042\051) Tj
+T*
+(cursor \075 connection\056cursor\050\051) Tj
+T*
+T*
+(\043 Create a table) Tj
+T*
+(cursor\056execute\050\042\042\042) Tj
+T*
+(CREATE TABLE IF NOT EXISTS products \050) Tj
+T*
+(    product\137id INTEGER PRIMARY KEY\054) Tj
+T*
+(    product\137name TEXT NOT NULL\054) Tj
+T*
+(    quantity INTEGER NOT NULL\054) Tj
+T*
+(    price REAL NOT NULL) Tj
+T*
+(\051) Tj
+T*
+(\042\042\042\051) Tj
+T*
+T*
+(connection\056commit\050\051) Tj
+T*
+(connection\056close\050\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 310.1354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Important terms) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 264.5354 cm
+q
+BT
+1 0 0 1 0 30.2 Tm
+0.177663 Tw
+13.2 TL
+/F2 9.4 Tf
+0 0 0 rg
+(Connection\072) Tj
+/F1 9.4 Tf
+( link between the Python program and the database\056 ) Tj
+/F2 9.4 Tf
+(Cursor\072) Tj
+/F1 9.4 Tf
+( object used to execute SQL commands\056) Tj
+T*
+0 Tw
+-0.078413 Tw
+/F2 9.4 Tf
+(Table\072) Tj
+/F1 9.4 Tf
+( collection of related records arranged in rows and columns\056 ) Tj
+/F2 9.4 Tf
+(Record\072) Tj
+/F1 9.4 Tf
+( one row in a table\056 ) Tj
+/F2 9.4 Tf
+(Field\072) Tj
+/F1 9.4 Tf
+( one column in) Tj
+T*
+0 Tw
+(a table\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/Type /Page
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 4859
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 5) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q2\056 PYTHON DATABASE CONNECTIVITY \226 PART 2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(CRUD operations using SQL) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 716.1354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9.4 Tf
+13.2 TL
+1.405597 Tw
+(CRUD stands for Create\054 Read\054 Update and Delete\056 These are the basic operations used to manage database) Tj
+T*
+0 Tw
+(records\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 415.6354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 286.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(import sqlite3) Tj
+T*
+T*
+(con \075 sqlite3\056connect\050\042inventory\056db\042\051) Tj
+T*
+(cur \075 con\056cursor\050\051) Tj
+T*
+T*
+(\043 CREATE\072 insert a product) Tj
+T*
+(cur\056execute\050) Tj
+T*
+(    \042INSERT INTO products VALUES \050\077\054 \077\054 \077\054 \077\051\042\054) Tj
+T*
+(    \050101\054 \042Keyboard\042\054 25\054 650\05600\051) Tj
+T*
+(\051) Tj
+T*
+T*
+(\043 READ\072 display all products) Tj
+T*
+(cur\056execute\050\042SELECT \052 FROM products\042\051) Tj
+T*
+(rows \075 cur\056fetchall\050\051) Tj
+T*
+(for row in rows\072) Tj
+T*
+(    print\050row\051) Tj
+T*
+T*
+(\043 UPDATE\072 change available quantity) Tj
+T*
+(cur\056execute\050) Tj
+T*
+(    \042UPDATE products SET quantity \075 \077 WHERE product\137id \075 \077\042\054) Tj
+T*
+(    \05020\054 101\051) Tj
+T*
+(\051) Tj
+T*
+T*
+(\043 DELETE\072 remove a product) Tj
+T*
+(cur\056execute\050) Tj
+T*
+(    \042DELETE FROM products WHERE product\137id \075 \077\042\054) Tj
+T*
+(    \050101\054\051) Tj
+T*
+(\051) Tj
+T*
+T*
+(con\056commit\050\051) Tj
+T*
+(con\056close\050\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 394.6354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Sample output before update and delete) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 381.1354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 1.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(\050101\054 \047Keyboard\047\054 25\054 650\0560\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 360.1354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Parameterized queries and safety) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 314.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+1.571738 Tw
+(The question mark placeholders \050\077\051 are used to pass values separately from SQL commands\056 This is called a) Tj
+T*
+0 Tw
+0.844175 Tw
+(parameterized query\056 It is safer than building SQL commands by joining user input into a string\054 because it helps) Tj
+T*
+0 Tw
+(prevent SQL injection and handles values correctly\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 294.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Transactions and commit) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 248.9354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+1.503709 Tw
+(A transaction is a group of database operations treated as one unit\056 commit\050\051 saves the changes permanently\056) Tj
+T*
+0 Tw
+1.293609 Tw
+(rollback\050\051 cancels uncommitted changes if an operation fails\056 This is useful when a sale updates both the stock) Tj
+T*
+0 Tw
+(quantity and the sales table\056 Both changes should be completed together\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 119.4354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 115.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(try\072) Tj
+T*
+(    con \075 sqlite3\056connect\050\042inventory\056db\042\051) Tj
+T*
+(    cur \075 con\056cursor\050\051) Tj
+T*
+(    cur\056execute\050\042UPDATE products SET quantity \075 quantity \055 1 \042) Tj
+T*
+(                \042WHERE product\137id \075 \077\042\054 \050101\054\051\051) Tj
+T*
+(    con\056commit\050\051) Tj
+T*
+(except sqlite3\056Error as error\072) Tj
+T*
+(    if con\072) Tj
+T*
+(        con\056rollback\050\051) Tj
+T*
+(    print\050\042Database error\072\042\054 error\051) Tj
+T*
+(finally\072) Tj
+T*
+(    if con\072) Tj
+T*
+(        con\056close\050\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 98.43543 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Database connectivity in real\055time applications) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 66.03543 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9.4 Tf
+13.2 TL
+0.707491 Tw
+(An inventory application can check stock before billing\054 update the quantity after a sale\054 and display products that) Tj
+T*
+0 Tw
+0.409164 Tw
+(are running low\056 In larger applications\054 a database server such as MySQL or PostgreSQL may be used\056 The same) Tj
+T*
+0 Tw
+ET
+Q
+Q
+Q
+q
+BT
+1 0 0 1 57 47.07477 Tm
+/helv 8.2 Tf
+0 0 0 RG
+0 0 0 rg
+[ (general steps apply\072 connect\054 create a cursor\054 execute SQL\054 fetch results\054 commit changes and close the connection\056) ] TJ
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Type /Page
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 5103
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 7) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q5\056 PYTHON REGULAR EXPRESSIONS \050REGEX\051 \226 PART 1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Introduction) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 702.9354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+0.40282 Tw
+(A regular expression\054 commonly called Regex\054 is a pattern used to search\054 match or validate text\056 Python provides) Tj
+T*
+0 Tw
+0.554879 Tw
+(the re module for regular expression operations\056 A data validation application can use Regex to check whether an) Tj
+T*
+0 Tw
+(email address\054 phone number or password follows an expected format\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 682.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Why Regex is useful) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 663.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20497420636865636b732077686574686572207465787420666f6c6c6f77732061207265717569726564207061747465726e2e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.5354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2049742063616e2066696e6420706172746963756c617220776f726473206f72206e756d6265727320696e2061206c6172676520746578742e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 625.3354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2049742063616e207265706c61636520756e77616e7465642063686172616374657273206f72207265706561746564207370616365732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.1354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2049742068656c70732076616c6964617465207573657220696e707574206265666f726520746865206170706c69636174696f6e2070726f6365737365732069742e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 586.1354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Important Regex symbols) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 82.20472 366.1354 cm
+q
+0.862745 0.901961 0.945098 rg
+n
+0 216 430.8661 -18 re
+f*
+0 0 0 rg
+BT
+/F2 8 Tf
+12 TL
+ET
+BT
+1 0 0 1 5 205 Tm
+(Symbol) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 205 Tm
+(Meaning) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 205 Tm
+(Example) Tj
+T*
+ET
+BT
+/F1 8 Tf
+12 TL
+ET
+BT
+1 0 0 1 5 187 Tm
+(\056) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 187 Tm
+(Any one character except newline) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 187 Tm
+(a\056c) Tj
+T*
+ET
+BT
+1 0 0 1 5 169 Tm
+(\136) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 169 Tm
+(Beginning of a string) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 169 Tm
+(\136Hello) Tj
+T*
+ET
+BT
+1 0 0 1 5 151 Tm
+(\044) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 151 Tm
+(End of a string) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 151 Tm
+(end\044) Tj
+T*
+ET
+BT
+1 0 0 1 5 133 Tm
+(\052) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 133 Tm
+(Zero or more repetitions) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 133 Tm
+(ab\052) Tj
+T*
+ET
+BT
+1 0 0 1 5 115 Tm
+(\053) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 115 Tm
+(One or more repetitions) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 115 Tm
+(ab\053) Tj
+T*
+ET
+BT
+1 0 0 1 5 97 Tm
+(\077) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 97 Tm
+(Zero or one repetition) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 97 Tm
+(colou\077r) Tj
+T*
+ET
+BT
+1 0 0 1 5 79 Tm
+(\173m\054n\175) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 79 Tm
+(Between m and n repetitions) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 79 Tm
+(\134d\1732\0544\175) Tj
+T*
+ET
+BT
+1 0 0 1 5 61 Tm
+(\133\135) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 61 Tm
+(Any one character in a set) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 61 Tm
+(\133A\055Z\135) Tj
+T*
+ET
+BT
+1 0 0 1 5 43 Tm
+(\134d) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 43 Tm
+(A digit from 0 to 9) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 43 Tm
+(\134d\053) Tj
+T*
+ET
+BT
+1 0 0 1 5 25 Tm
+(\134w) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 25 Tm
+(A word character) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 25 Tm
+(\134w\053) Tj
+T*
+ET
+BT
+1 0 0 1 5 7 Tm
+(\134s) Tj
+T*
+ET
+BT
+1 0 0 1 67.3622 7 Tm
+(A whitespace character) Tj
+T*
+ET
+BT
+1 0 0 1 251.6142 7 Tm
+(\134s\053) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.45 w
+n
+0 216 m
+430.8661 216 l
+S
+n
+0 0 m
+430.8661 0 l
+S
+n
+0 0 m
+0 216 l
+S
+n
+430.8661 0 m
+430.8661 216 l
+S
+n
+0 198 m
+430.8661 198 l
+S
+n
+0 180 m
+430.8661 180 l
+S
+n
+0 162 m
+430.8661 162 l
+S
+n
+0 144 m
+430.8661 144 l
+S
+n
+0 126 m
+430.8661 126 l
+S
+n
+0 108 m
+430.8661 108 l
+S
+n
+0 90 m
+430.8661 90 l
+S
+n
+0 72 m
+430.8661 72 l
+S
+n
+0 54 m
+430.8661 54 l
+S
+n
+0 36 m
+430.8661 36 l
+S
+n
+0 18 m
+430.8661 18 l
+S
+n
+62.3622 0 m
+62.3622 216 l
+S
+n
+246.6142 0 m
+246.6142 216 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 346.1354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Character classes and quantifiers) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 300.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+1.118916 Tw
+(A character class uses square brackets to define allowed characters\056 For example\054 \133A\055Z\135 matches an uppercase) Tj
+T*
+0 Tw
+0.11206 Tw
+(English letter and \1330\0559\135 matches a digit\056 A quantifier tells how many times a pattern may repeat\056 For example\054 \134d\17310\175) Tj
+T*
+0 Tw
+(matches exactly ten digits\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+22 0 obj
+<<
+/Type /Page
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 4939
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 8) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q5\056 PYTHON REGULAR EXPRESSIONS \050REGEX\051 \226 PART 2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Common functions in the re module) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 729.3354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2072652e6d61746368287061747465726e2c2074657874293a20636865636b7320666f722061206d617463682061742074686520626567696e6e696e67206f662074686520737472696e672e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 710.1354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2072652e736561726368287061747465726e2c2074657874293a2073656172636865732074686520737472696e6720616e642072657475726e7320746865206669727374206d617463682e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.9354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2072652e66696e64616c6c287061747465726e2c2074657874293a2072657475726e7320616c6c206d61746368696e672070617274732061732061206c6973742e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 671.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2072652e737562287061747465726e2c207265706c6163656d656e742c2074657874293a207265706c61636573206d61746368696e672070617274732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 652.5354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2072652e73706c6974287061747465726e2c2074657874293a2073706c697473207465787420776865726576657220746865207061747465726e206d6174636865732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 632.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Example 1\072 validating a phone number) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.0354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 77.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(import re) Tj
+T*
+T*
+(phone \075 input\050\042Enter a 10\055digit phone number\072 \042\051) Tj
+T*
+(pattern \075 r\042\136\1336\0559\135\134d\1739\175\044\042) Tj
+T*
+T*
+(if re\056fullmatch\050pattern\054 phone\051\072) Tj
+T*
+(    print\050\042Valid phone number\042\051) Tj
+T*
+(else\072) Tj
+T*
+(    print\050\042Invalid phone number\042\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 522.0354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Sample output) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.0354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 11.3 Tm
+/F3 7.7 Tf
+9.5 TL
+(Enter a 10\055digit phone number\072 9876543210) Tj
+T*
+(Valid phone number) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 452.4354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+0.295123 Tw
+(In this example\054 \136 and \044 mark the beginning and end of the string\056 \1336\0559\135 allows the first digit to be between 6 and 9\054) Tj
+T*
+0 Tw
+0.076321 Tw
+(and \134d\1739\175 requires nine more digits\056 The pattern is a simple format check\073 it does not prove that the number is active) Tj
+T*
+0 Tw
+(or belongs to a particular person\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 432.4354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Example 2\072 basic email format check) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 342.9354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 77.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(import re) Tj
+T*
+T*
+(email \075 input\050\042Enter email address\072 \042\051) Tj
+T*
+(pattern \075 r\042\136\133A\055Za\055z0\0559\056\137\045\053\055\135\053\100\133A\055Za\055z0\0559\056\055\135\053\134\056\133A\055Za\055z\135\1732\054\175\044\042) Tj
+T*
+T*
+(if re\056fullmatch\050pattern\054 email\051\072) Tj
+T*
+(    print\050\042Email format is valid\042\051) Tj
+T*
+(else\072) Tj
+T*
+(    print\050\042Invalid email format\042\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 321.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Example 3\072 finding numbers in text) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 270.4354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 39.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(import re) Tj
+T*
+T*
+(message \075 \042Order 125 has 3 items\056 Order 126 has 5 items\056\042) Tj
+T*
+(numbers \075 re\056findall\050r\042\134d\053\042\054 message\051) Tj
+T*
+(print\050numbers\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 253.9354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 1.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(\133\047125\047\054 \0473\047\054 \047126\047\054 \0475\047\135) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 232.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Limitations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 187.3354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+0.003597 Tw
+(Regex is useful for checking a basic format\054 but complicated formats may need additional validation\056 For example\054 a) Tj
+T*
+0 Tw
+0.883897 Tw
+(regular expression cannot confirm that an email inbox exists\056 A good application should also handle empty input\054) Tj
+T*
+0 Tw
+(spaces and unexpected characters\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/Type /Page
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 4252
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 518.9 28.34646 Tm
+(Page 9) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q6\056 PYTHON APIs AND JSON PROCESSING \226 PART 1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Introduction to APIs) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 702.9354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+0.675796 Tw
+(API stands for Application Programming Interface\056 It allows one software application to communicate with another) Tj
+T*
+0 Tw
+-0.070832 Tw
+(application\056 A weather application can request current weather information from an external weather service through) Tj
+T*
+0 Tw
+(an API and display the returned temperature\054 humidity and weather condition\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 682.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(How an API request works) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 663.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2054686520636c69656e742073656e647320616e2048545450207265717565737420746f20616e2041504920656e64706f696e742028612077656220616464726573732070726f7669646564206279207468652073657276696365292e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.5354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f205468652072657175657374206d617920696e636c75646520706172616d65746572732c2068656164657273206f722061757468656e7469636174696f6e20696e666f726d6174696f6e2e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 625.3354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f205468652073657276657220726563656976657320746865207265717565737420616e642070726f6365737365732069742e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.1354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20546865207365727665722073656e647320616e204854545020726573706f6e736520636f6e7461696e696e6720612073746174757320636f646520616e6420757375616c6c7920646174612e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 586.9354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2054686520507974686f6e2070726f6772616d20636865636b732074686520726573706f6e73652c2070726f63657373657320746865206461746120616e6420646973706c6179732075736566756c20696e666f726d6174696f6e2e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 566.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Common HTTP methods) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 82.20472 454.9354 cm
+q
+0.862745 0.901961 0.945098 rg
+n
+0 108 430.8661 -18 re
+f*
+0 0 0 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 96.5 Tm
+(Method) Tj
+T*
+ET
+BT
+1 0 0 1 91.03937 96.5 Tm
+(Purpose) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 78.5 Tm
+(GET) Tj
+T*
+ET
+BT
+1 0 0 1 91.03937 78.5 Tm
+(Retrieve information from a server\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 60.5 Tm
+(POST) Tj
+T*
+ET
+BT
+1 0 0 1 91.03937 60.5 Tm
+(Send data to create or process a resource\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 42.5 Tm
+(PUT) Tj
+T*
+ET
+BT
+1 0 0 1 91.03937 42.5 Tm
+(Replace or update a resource\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 24.5 Tm
+(PATCH) Tj
+T*
+ET
+BT
+1 0 0 1 91.03937 24.5 Tm
+(Update selected fields of a resource\056) Tj
+T*
+ET
+BT
+1 0 0 1 6 6.5 Tm
+(DELETE) Tj
+T*
+ET
+BT
+1 0 0 1 91.03937 6.5 Tm
+(Request deletion of a resource\056) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 108 m
+430.8661 108 l
+S
+n
+0 0 m
+430.8661 0 l
+S
+n
+0 0 m
+0 108 l
+S
+n
+430.8661 0 m
+430.8661 108 l
+S
+n
+0 90 m
+430.8661 90 l
+S
+n
+0 72 m
+430.8661 72 l
+S
+n
+0 54 m
+430.8661 54 l
+S
+n
+0 36 m
+430.8661 36 l
+S
+n
+0 18 m
+430.8661 18 l
+S
+n
+85.03937 0 m
+85.03937 108 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 434.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(HTTP status codes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 389.3354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+0.34963 Tw
+(Status codes indicate the result of a request\056 200 means success\054 201 means a resource was created\054 400 means) Tj
+T*
+0 Tw
+0.001938 Tw
+(the request was invalid\054 401 means authentication is required or invalid\054 404 means the requested resource was not) Tj
+T*
+0 Tw
+(found\054 and 500 indicates a server\055side error\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/Type /Page
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 4283
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 514.452 28.34646 Tm
+(Page 10) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q6\056 PYTHON APIs AND JSON PROCESSING \226 PART 2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Using the requests library) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 702.9354 cm
+q
+BT
+1 0 0 1 0 30.2 Tm
+0.91106 Tw
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+(The requests library makes it easier to send HTTP requests in Python\056 It can be installed with the command ) Tj
+/F2 9.4 Tf
+(pip) Tj
+T*
+0 Tw
+2.33653 Tw
+(install requests) Tj
+/F1 9.4 Tf
+(\056 The following example uses a public demonstration API\056 In a real weather application\054 the) Tj
+T*
+0 Tw
+(endpoint and parameters must be replaced with those supplied by the chosen weather service\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 525.9354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 163.3 Tm
+/F3 7.7 Tf
+9.5 TL
+(import requests) Tj
+T*
+T*
+(url \075 \042https\072\057\057jsonplaceholder\056typicode\056com\057todos\0571\042) Tj
+T*
+T*
+(try\072) Tj
+T*
+(    response \075 requests\056get\050url\054 timeout\07510\051) Tj
+T*
+(    response\056raise\137for\137status\050\051  \043 raises an error for HTTP failure) Tj
+T*
+(    data \075 response\056json\050\051) Tj
+T*
+T*
+(    print\050\042Task\072\042\054 data\133\042title\042\135\051) Tj
+T*
+(    print\050\042Completed\072\042\054 data\133\042completed\042\135\051) Tj
+T*
+T*
+(except requests\056exceptions\056Timeout\072) Tj
+T*
+(    print\050\042The request took too long\056\042\051) Tj
+T*
+(except requests\056exceptions\056RequestException as error\072) Tj
+T*
+(    print\050\042API request failed\072\042\054 error\051) Tj
+T*
+(except ValueError\072) Tj
+T*
+(    print\050\042The response is not valid JSON\056\042\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 504.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Example output) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 481.9354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 11.3 Tm
+/F3 7.7 Tf
+9.5 TL
+(Task\072 delectus aut autem) Tj
+T*
+(Completed\072 False) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 460.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Handling API responses) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 402.1354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 43.4 Tm
+/F1 9.4 Tf
+13.2 TL
+4.17931 Tw
+(A response contains a status code\054 headers and a body\056 response\056status\137code gives the status code\056) Tj
+T*
+0 Tw
+2.358935 Tw
+(response\056raise\137for\137status\050\051 raises an exception for unsuccessful HTTP responses\056 response\056json\050\051 converts a) Tj
+T*
+0 Tw
+1.20182 Tw
+(JSON response into Python objects\056 A timeout prevents the program from waiting forever if the server does not) Tj
+T*
+0 Tw
+(respond\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 382.1354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(API security and good practices) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 362.9354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2055736520485454505320736f2074686174206461746120697320656e63727970746564207768696c652069742074726176656c73206265747765656e2074686520636c69656e7420616e64207365727665722e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204b65657020415049206b65797320707269766174652e20446f206e6f74207075626c697368207468656d20696e20736f7572636520636f6465206f722075706c6f6164207468656d20746f207075626c6963207265706f7369746f726965732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 324.5354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f205573652074696d656f75747320616e642068616e646c6520636f6e6e656374696f6e206572726f72732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 305.3354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20436865636b207468652073746174757320636f646520616e642076616c69646174652074686520726573706f6e7365206265666f7265207573696e672069742e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 286.1354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20466f6c6c6f772074686520736572766963652773207573616765206c696d69747320616e64207465726d732e> Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/Type /Page
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 5156
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 514.452 28.34646 Tm
+(Page 11) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q6\056 PYTHON APIs AND JSON PROCESSING \226 PART 3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(What is JSON\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 702.9354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+2.548872 Tw
+(JSON stands for JavaScript Object Notation\056 It is a lightweight text format used to exchange data between) Tj
+T*
+0 Tw
+-0.112536 Tw
+(applications\056 JSON is easy for people to read and easy for programs to process\056 APIs commonly send information in) Tj
+T*
+0 Tw
+(JSON format\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 682.9354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(JSON data types) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 663.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204f626a6563743a206120636f6c6c656374696f6e206f66206b65792d76616c75652070616972732c207772697474656e207573696e67206375726c7920627261636b657473207b7d2e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.5354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f2041727261793a20616e206f726465726564206c697374206f662076616c7565732c207772697474656e207573696e672073717561726520627261636b657473205b5d2e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 625.3354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20537472696e673a2074657874207772697474656e20696e7369646520646f75626c652071756f746174696f6e206d61726b732e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.1354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204e756d6265723a20616e20696e7465676572206f7220646563696d616c206e756d6265722e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 586.9354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20426f6f6c65616e3a2074727565206f722066616c73652e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 567.7354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f204e756c6c3a20726570726573656e747320616e20656d707479206f7220756e617661696c61626c652076616c75652e> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 547.7354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Example JSON weather record) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 477.2354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 58.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(\173) Tj
+T*
+(  \042city\042\072 \042Chennai\042\054) Tj
+T*
+(  \042temperature\042\072 31\054) Tj
+T*
+(  \042humidity\042\072 68\054) Tj
+T*
+(  \042condition\042\072 \042Cloudy\042\054) Tj
+T*
+(  \042is\137raining\042\072 false) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 456.2354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Python json module) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 410.6354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.2 Tm
+/F1 9.4 Tf
+13.2 TL
+2.094147 Tw
+(Python provides the built\055in json module\056 json\056loads\050\051 converts a JSON string into a Python dictionary or list\056) Tj
+T*
+0 Tw
+1.016672 Tw
+(json\056dumps\050\051 converts Python data into a JSON string\056 json\056load\050\051 reads JSON data from a file\054 and json\056dump\050\051) Tj
+T*
+0 Tw
+(writes Python data to a file in JSON format\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 243.1354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 153.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(import json) Tj
+T*
+T*
+(weather \075 \173) Tj
+T*
+(    \042city\042\072 \042Chennai\042\054) Tj
+T*
+(    \042temperature\042\072 31\054) Tj
+T*
+(    \042humidity\042\072 68\054) Tj
+T*
+(    \042condition\042\072 \042Cloudy\042) Tj
+T*
+(\175) Tj
+T*
+T*
+(\043 Convert Python dictionary into JSON text) Tj
+T*
+(json\137text \075 json\056dumps\050weather\054 indent\0754\051) Tj
+T*
+(print\050json\137text\051) Tj
+T*
+T*
+(\043 Convert JSON text back into a Python dictionary) Tj
+T*
+(result \075 json\056loads\050json\137text\051) Tj
+T*
+(print\050\042City\072\042\054 result\133\042city\042\135\051) Tj
+T*
+(print\050\042Temperature\072\042\054 result\133\042temperature\042\135\054 \042C\042\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 222.1354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Sample output) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 142.1354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 68.3 Tm
+/F3 7.7 Tf
+9.5 TL
+(\173) Tj
+T*
+(    \042city\042\072 \042Chennai\042\054) Tj
+T*
+(    \042temperature\042\072 31\054) Tj
+T*
+(    \042humidity\042\072 68\054) Tj
+T*
+(    \042condition\042\072 \042Cloudy\042) Tj
+T*
+(\175) Tj
+T*
+(City\072 Chennai) Tj
+T*
+(Temperature\072 31 C) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 121.1354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Saving and reading JSON files) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 60.13543 cm
+0 0 0 rg
+BT
+1 0 0 1 7 49.3 Tm
+/F3 7.7 Tf
+9.5 TL
+(import json) Tj
+T*
+T*
+(student \075 \173\042name\042\072 \042S\056Krishna Sagar Reddy\042\054 \042department\042\072 \042AI\046ML\042\175) Tj
+T*
+T*
+(with open\050\042student\056json\042\054 \042w\042\054 encoding\075\042utf\0558\042\051 as file\072) Tj
+T*
+(    json\056dump\050student\054 file\054 indent\0754\051) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+30 0 obj
+<<
+/Type /Page
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/XObject <<
+/fzFrm0 32 0 R
+>>
+>>
+/Rotate 0
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 6526
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(Python Programming \226 Assessment 3 \174 S\056Krishna Sagar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 514.452 28.34646 Tm
+(Page 13) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 771.5354 cm
+q
+0.090196 0.211765 0.364706 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 15 Tf
+19 TL
+(Q6\056 PYTHON APIs AND JSON PROCESSING \226 PART 4) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Combining API retrieval and JSON processing) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.7354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 43.4 Tm
+/F1 9.4 Tf
+13.2 TL
+0.49295 Tw
+(A weather application can request weather data from a weather API\054 convert the JSON response into Python data) Tj
+T*
+0 Tw
+0.836916 Tw
+(and display selected fields\056 The exact URL\054 parameter names and authentication method depend on the weather) Tj
+T*
+0 Tw
+0.989353 Tw
+(provider\056 The following is a general structure\073 the sample endpoint is a placeholder and must be replaced with a) Tj
+T*
+0 Tw
+(valid provider endpoint\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 436.7354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 239.3 Tm
+/F3 7.7 Tf
+9.5 TL
+(import requests) Tj
+T*
+T*
+(API\137URL \075 \042https\072\057\057api\056example\056com\057weather\042) Tj
+T*
+(params \075 \173\042city\042\072 \042Chennai\042\175) Tj
+T*
+T*
+(try\072) Tj
+T*
+(    response \075 requests\056get\050API\137URL\054 params\075params\054 timeout\07510\051) Tj
+T*
+(    response\056raise\137for\137status\050\051) Tj
+T*
+T*
+(    weather\137data \075 response\056json\050\051) Tj
+T*
+T*
+(    city \075 weather\137data\056get\050\042city\042\054 \042Unknown\042\051) Tj
+T*
+(    temperature \075 weather\137data\056get\050\042temperature\042\054 \042Not available\042\051) Tj
+T*
+(    humidity \075 weather\137data\056get\050\042humidity\042\054 \042Not available\042\051) Tj
+T*
+(    condition \075 weather\137data\056get\050\042condition\042\054 \042Not available\042\051) Tj
+T*
+T*
+(    print\050\042Weather report\042\051) Tj
+T*
+(    print\050\042City\072\042\054 city\051) Tj
+T*
+(    print\050\042Temperature\072\042\054 temperature\051) Tj
+T*
+(    print\050\042Humidity\072\042\054 humidity\051) Tj
+T*
+(    print\050\042Condition\072\042\054 condition\051) Tj
+T*
+T*
+(except requests\056exceptions\056RequestException as error\072) Tj
+T*
+(    print\050\042Unable to get weather data\072\042\054 error\051) Tj
+T*
+(except ValueError\072) Tj
+T*
+(    print\050\042Invalid JSON response\056\042\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 415.7354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Expected display when valid weather data is received) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 364.2354 cm
+0 0 0 rg
+BT
+1 0 0 1 7 39.8 Tm
+/F3 7.7 Tf
+9.5 TL
+(Weather report) Tj
+T*
+(City\072 Chennai) Tj
+T*
+(Temperature\072 31) Tj
+T*
+(Humidity\072 68) Tj
+T*
+(Condition\072 Cloudy) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 343.2354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(How APIs support real\055time applications) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 284.4354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 43.4 Tm
+/F1 9.4 Tf
+13.2 TL
+0.15141 Tw
+(APIs help applications obtain updated information without manually entering every value\056 A weather application can) Tj
+T*
+0 Tw
+0.599925 Tw
+(show current conditions\054 a travel application can retrieve transport information\054 and an online shopping application) Tj
+T*
+0 Tw
+2.246939 Tw
+(can communicate with payment or delivery services\056 JSON provides a common structure for transferring this) Tj
+T*
+0 Tw
+(information\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 264.4354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Conclusion) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 192.4354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 56.6 Tm
+/F1 9.4 Tf
+13.2 TL
+1.076041 Tw
+(In this lab exercise\054 I studied four important Python topics\056 File handling is used to save and retrieve permanent) Tj
+T*
+0 Tw
+0.045919 Tw
+(information\056 Database connectivity allows a program to manage structured records using SQL\056 Regular expressions) Tj
+T*
+0 Tw
+1.430996 Tw
+(help search and validate text patterns\056 APIs and JSON allow Python applications to communicate with external) Tj
+T*
+0 Tw
+-0.100577 Tw
+(services and process the information they receive\056 These concepts are useful for building practical applications such) Tj
+T*
+0 Tw
+(as college management\054 inventory and weather systems\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 172.4354 cm
+q
+0.141176 0.321569 0.478431 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(References) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 153.2354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20507974686f6e20646f63756d656e746174696f6e2096204275696c742d696e2046756e6374696f6e7320616e642046696c6520492f4f3a2068747470733a2f2f646f63732e707974686f6e2e6f72672f332f7475746f7269616c2f696e7075746f75747075742e68746d6c> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 134.0354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20507974686f6e20646f63756d656e746174696f6e20962073716c697465333a2068747470733a2f2f646f63732e707974686f6e2e6f72672f332f6c6962726172792f73716c697465332e68746d6c> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 114.8354 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20507974686f6e20646f63756d656e746174696f6e20962072653a2068747470733a2f2f646f63732e707974686f6e2e6f72672f332f6c6962726172792f72652e68746d6c> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 95.63543 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20507974686f6e20646f63756d656e746174696f6e2096206a736f6e3a2068747470733a2f2f646f63732e707974686f6e2e6f72672f332f6c6962726172792f6a736f6e2e68746d6c> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 76.43543 cm
+q
+BT
+1 0 0 1 0 3.8 Tm
+13.2 TL
+/F1 9.4 Tf
+0 0 0 rg
+<7f20526571756573747320646f63756d656e746174696f6e3a2068747470733a2f2f72657175657374732e72656164746865646f63732e696f2f> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 62.43543 cm
+Q
+Q
+q
+BT
+1 0 0 1 57 57.82727 Tm
+/helv 7.5 Tf
+0 0 0 RG
+0 0 0 rg
+[ (Code of Conduct\072 I\054 S\056Krishna Sagar Reddy \050Register Number\072 192525384\051\054 certify that this submission is prepared for the Python Programming lab) ] TJ
+1 0 0 1 57 48.555395 Tm
+/helv 7.5 Tf
+0 0 0 RG
+0 0 0 rg
+[ (exercise\056 I understand the importance of following the institution\047s academic integrity guidelines\056) ] TJ
+1 0 0 1 57 39.28352 Tm
+/helv 7.5 Tf
+0 0 0 RG
+0 0 0 rg
+[ (Student Signature\072 \137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) ] TJ
+ET
+Q
+q
+/fzFrm0 Do
+Q
+
+endstream
+endobj
+32 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/BBox [ 0 0 595.2756 841.8898 ]
+/Matrix [ 1 0 0 1 0 0 ]
+/Resources <<
+/XObject <<
+/fullpage 33 0 R
+>>
+>>
+/Filter /FlateDecode
+/Length 20
+>>
+stream
+xœÓO+ÍÉ)HLOUpÉ ¤S
+endstream
+endobj
+33 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/BBox [ 0 0 595.2756 841.8898 ]
+/Matrix [ 1 0 0 1 0 0 ]
+/Resources <<
+/Font 34 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Filter /FlateDecode
+/Length 72
+>>
+stream
+xÚ3T0 BC0™œ« à¢ ïf¨`h¤’¦`h¢g¢â£àÂÂ¢t®<S3SSC 6c#…¢T…4-.. éµ
+endstream
+endobj
+34 0 obj
+<<
+/F1 7 0 R
+>>
+endobj
+xref
+0 35
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000184 00000 n 
+0000000233 00000 n 
+0000000432 00000 n 
+0000004300 00000 n 
+0000004377 00000 n 
+0000004484 00000 n 
+0000004596 00000 n 
+0000004701 00000 n 
+0000004799 00000 n 
+0000004895 00000 n 
+0000005096 00000 n 
+0000010012 00000 n 
+0000010213 00000 n 
+0000014278 00000 n 
+0000014479 00000 n 
+0000018982 00000 n 
+0000019183 00000 n 
+0000024095 00000 n 
+0000024296 00000 n 
+0000029452 00000 n 
+0000029653 00000 n 
+0000034645 00000 n 
+0000034846 00000 n 
+0000039151 00000 n 
+0000039352 00000 n 
+0000043688 00000 n 
+0000043889 00000 n 
+0000049098 00000 n 
+0000049329 00000 n 
+0000055908 00000 n 
+0000056135 00000 n 
+0000056443 00000 n 
+trailer
+<<
+/Size 35
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+56475
+%%EOF
